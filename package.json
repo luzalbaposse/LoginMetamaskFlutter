@@ -1,0 +1,15 @@
+{
+  "name": "loginmetamaskflutter",
+  "version": "1.0.0",
+  "description": "Probando hacer un login con metamask en una app hecha en flutter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@openzeppelin/contracts": "^4.8.2"
+  }
+}
